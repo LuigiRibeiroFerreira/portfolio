@@ -10,8 +10,13 @@ Nos projetos adicionados as requisições das apis foram feitas com axios.
 
 To do list: 
 -Melhorar o recorte das imagens nas redes sociais.
+
 -Atualizar o array de projetos ja feitos.
+
 -Estilizar os cards 
+
 -Adcionar imagens dos projetos.
+
 -Animação de transição entre a páginas.
+
 -Separar todos os estilos dos componentes.
