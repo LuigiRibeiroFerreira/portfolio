@@ -8,7 +8,11 @@ Nos projetos adicionados as requisições das apis foram feitas com axios.
 
 
 
+
+
+
 To do list: 
+
 -Melhorar o recorte das imagens nas redes sociais.
 
 -Atualizar o array de projetos ja feitos.
